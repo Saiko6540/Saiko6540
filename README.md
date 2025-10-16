@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔧 Code. ⚡ Wire. 🧠 Learn.<br><br>Languages: Python, Java, C++<br>Hardware: Arduino, Microcontrollers, Electronics<br>Web: HTML/CSS basics<br>GameDev: Unreal Engine rookie<br>Cybersecurity: Beginner explorer<br><br>Building stuff that blinks, moves, and sometimes crashes 😄
+> Code ⚙️  |  Wire ⚡  |  Learn 🧠  ||  Languages: Python, Java, C++  ||  Hardware: Arduino, Microcontrollers, Electronics  ||  Web: HTML/CSS  ||  GameDev: Unreal Engine Rookie  ||  Cybersecurity: Beginner Explorer  ||  ✨ Building stuff that blinks, moves, and sometimes crashes 😄
 
 
 # 💻 Tech Stack:
